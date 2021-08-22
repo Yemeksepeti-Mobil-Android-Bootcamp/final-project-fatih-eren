@@ -4,6 +4,8 @@ Personal project developed with the Android SDK.
 - All recipe information is provided by [Spoonacular API.](https://spoonacular.com/food-api) 
 - Register and login is provided by [Herokuapp - 3.party API](https://dist-learn.herokuapp.com/) 
 
+- [App introduction video on Youtube](https://www.youtube.com/watch?v=2i0laRNv0KM&feature=youtu.be)
+
 ------
 
 <table>

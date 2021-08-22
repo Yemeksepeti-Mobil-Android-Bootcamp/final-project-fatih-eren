@@ -38,6 +38,7 @@ Personal project developed with the Android SDK.
     <td>Share Recipe on Social Media</td>
     <td>Your Favorites</td>
     <td>Settings</td>
+    <td>User UpdateSettings</td>
   </tr>
   
   <tr>
@@ -50,6 +51,10 @@ Personal project developed with the Android SDK.
    <td>
            <img src="https://github.com/fatihhernn/RecipeApp/blob/main/otherOptionsScreen.jpg" width="200" height="400" alt=".android">
    </td>
+    <td>
+           <img src="https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/final-project-fatih-eren/blob/main/1629659419969.jpg" width="200" height="400" alt=".android">
+   </td>
+    
  </table>
  
 ----

@@ -78,9 +78,10 @@ Personal project developed with the Android SDK.
 - [okhttp-logging-interceptor](https://github.com/square/okhttp/blob/master/okhttp-logging-interceptor/README.md) - logging HTTP request related data.
 - [Gson](https://github.com/google/gson) - Gson is a Java library that can be used to convert Java Objects into their JSON representation
 - [Coil-kt](https://coil-kt.github.io/coil/) - An image loading library for Android backed by Kotlin Coroutines.
-- [Offline Cache]
+- Offline Caching
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 - [Menu - Contextual Menu](https://developer.android.com/guide/topics/ui/menus)- Menus are a common user interface component in many types of applications. 
+- [Motion Layout](https://developer.android.com/training/constraint-layout/motionlayout)- MotionLayout is a layout type that helps you manage motion and widget animation in your app.
 - [Shimmer Effect](https://github.com/omtodkar/ShimmerRecyclerView) - ShimmerRecyclerView is an custom RecyclerView library based on Facebook's Shimmer effect for Android library
 - [Gradle Kotlin DSL](https://docs.gradle.org/current/userguide/kotlin_dsl.html) - For writing Gradle build scripts using Kotlin.
 ---
